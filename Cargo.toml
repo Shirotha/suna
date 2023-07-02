@@ -1,0 +1,12 @@
+[package]
+name = "suna"
+version = "0.1.0"
+edition = "2021"
+authors = ["Shirotha"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+duplicate = "1.0.0"
+num-traits = "0.2.15"
+ordered-float = "3.7.0"
